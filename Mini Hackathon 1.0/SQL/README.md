@@ -3,7 +3,7 @@
 
 In this project, I have conducted a comprehensive analysis of the IMDB dataset, exploring various factors that contribute to a movie's success. The analysis includes examining the impact of directors on earnings, tracking the popularity of different genres over the years, assessing the influence of movie length, and investigating the correlation between ratings and commercial success. Additionally, I have identified the movie with the highest gross and analyzed the role of actors, and genre in shaping a movie's performance. This project provides valuable insights into the dynamics of the film industry, offering a data-driven perspective on what makes a movie successful.
 
-You can go check the loom video: https://www.loom.com/share/21147ab0a65e4bebb96651cff4227852?sid=d5f0f6f8-002c-4515-a89f-1779a948291e
+Work Flow and Analysis: https://www.loom.com/share/21147ab0a65e4bebb96651cff4227852?sid=d5f0f6f8-002c-4515-a89f-1779a948291e
 
 ## Director's Imapct on Earnings
 
