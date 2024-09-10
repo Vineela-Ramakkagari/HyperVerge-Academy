@@ -17,10 +17,10 @@ ORDER BY AVG(IMDB_Rating) DESC;
 
 
 -- Finding the Genre which has highest Gross
-SELECT Genre, SUM(Gross) Total_Gross
+SELECT Genre, AVG(Gross) AS AVG_Gross
 FROM imdb
 GROUP BY Genre
-ORDER BY Total_Gross DESC;
+ORDER BY AVG_Gross DESC;
 
 
 -- To observe the effect of Star1 on the movie
