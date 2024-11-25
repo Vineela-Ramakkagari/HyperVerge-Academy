@@ -11,7 +11,7 @@ SELECT Director,
 ROUND(AVG(IMDB_Rating),2) Average_Movie_Rating, AVG(Gross) Average_Gross
 FROM imdb
 GROUP BY Director
-ORDER BY Total_Gross DESC;
+ORDER BY Average_Gross DESC;
 
 -- ANALYSIS
 /*
